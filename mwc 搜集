@@ -1,0 +1,26 @@
+节点
+https://github.com/mwcproject/mwc713/blob/master/docs/usage.md#running-your-own-node
+
+钱包配置
+
+
+矿池
+https://mwc.herominers.com/#how-to-mine-mimblewimble-coin-mwc
+
+
+问题:
+1.无法导入私钥
+私钥错误
+
+2.无法解锁
+必须跟后参数 -p
+
+3.无法开启tor
+必须开启foreign api 以及tor 在配置文件设置自动开启
+
+4.无法导入钱包
+采用初始化 然后恢复
+
+5.无法开启矿工
+注意如果是在windows下面开启矿工的话，需要在配置文件中设置
+矿池地址 以及矿工名字
