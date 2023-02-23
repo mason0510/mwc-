@@ -24,3 +24,15 @@ https://mwc.herominers.com/#how-to-mine-mimblewimble-coin-mwc
 5.无法开启矿工
 注意如果是在windows下面开启矿工的话，需要在配置文件中设置
 矿池地址 以及矿工名字
+
+6.
+开启tor监听
+listen -t
+
+7.
+解锁unlock -p
+
+8.sync 
+同步区块
+
+9.目录
